@@ -7,27 +7,30 @@ As a business changes, so do their customer interests and sentiments. Businesses
 
 1. Data
 <li>
-  <a href=""></a>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/tree/main/Data">Tweets Data</a>
 </li>
 <br/>
 
 2. Notebooks
 <li>
-  <a href=""></a>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Notebooks/1%20Sentiment%20Analysis%20Data%20Wrangling.ipynb">
+  Data Wrangling
+  </a>
+</li>
+
+<li>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Notebooks/2%20Sentiment%20Analysis%20EDA.ipynb">EDA</a>
 </li>
 <li>
-  <a href=""></a>
-</li>
-<li>
-  <a href=""></a>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Notebooks/3%20Sentiment%20Analysis%20Modeling.ipynb">Modeling</a>
 </li>
 <br/>
 
 3. Reports
 <li>
-  <a href=""></a>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Report/Airline%20Sentiment%20Analysis%20Report.pdf">Report</a>
 </li>
 <li>
-  <a href=""></a>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Report/Airline%20Sentiment%20Analysis%20Presentation.pdf">
+  Presentation</a>
 </li>
-<br/>
