@@ -32,5 +32,9 @@ As a business changes, so do their customer interests and sentiments. Businesses
 </li>
 <li>
   <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Report/Airline%20Sentiment%20Analysis%20Presentation.pdf">
-  Presentation</a>
+  Presentation </a>
+</li>
+<li>
+  <a href="https://github.com/KierraDangerfield/Airline-Sentiment-Analysis/blob/main/Report/Airline%20Sentiment%20Analysis%20Presentation.pdf">
+  Presentation Slides</a>
 </li>
